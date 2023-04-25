@@ -57,8 +57,8 @@ inquirer.prompt([
     // instructions how to reach me with more questions, make it an auto email generator
   },
 ])
-  .then((response) => {
-    console.log(response);
+  .then((answers) => {
+    console.log(answers);
     
     
     
@@ -66,7 +66,7 @@ inquirer.prompt([
     
     
     
-    // fs.writeFile('README.md', JSON.stringify(response, null), '\t', (err) =>
+    // fs.writeFile('README.md', JSON.stringify(answers, null), '\t', (err) =>
     //   err ? console.error(err) : console.log('generated README.')
     // );
   });
