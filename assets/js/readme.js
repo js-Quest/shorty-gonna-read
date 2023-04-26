@@ -1,6 +1,10 @@
+const getBadges = require('./badges');
+
+
 function generateReadme(answers) {
   return `
   # ${answers.title}
+  ${getBadges(answers.license)}
 
   ## Description
   ${answers.description}
@@ -26,10 +30,11 @@ function generateReadme(answers) {
   ${answers.test}
 
   ## License
-  ${answers.license}
+  This project retains the ${answers.license} license.
 
   ## Questions
-  For additional information, please check out my github profile:  github.com/${answers.github}
+  For additional information, please check out my github profile:  github.com/${answers.github}  
+  
   Or feel free to email me at ${answers.email}
   `
 }

@@ -38,7 +38,7 @@ inquirer.prompt([
     type: 'list',
     message: 'What type of license does your project have?',
     name: 'license',
-    choices: ['MIT', 'ISC', 'none'],
+    choices: ['none','MIT','ISC','Mozilla','Apache','IBM'],
     filter(value) {
       return value;
     }
@@ -61,7 +61,7 @@ inquirer.prompt([
   .then((answers) => {
     console.log(answers);
 
-    fs.writeFile('README.md', generateReadme(answers), (err) =>
+    fs.writeFile('../generated/README.md', generateReadme(answers), (err) =>
       err ? console.error(err) : console.log('success - generated README!')
     );
 
