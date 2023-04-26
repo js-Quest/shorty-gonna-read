@@ -1,9 +1,9 @@
 
-  # sample project name
+  # Sample-Octo-Telegram
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  this is an application to do a function to make life easier
+  This is a sample readme made with the readme generator that was made for a coding challenge.  It demonstrates the effectiveness of the generator.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,16 +14,16 @@
   - [Questions](#questions)
 
   ## Installation
-  download the repo, click on deployed link: samplelink.com
+  Clone the repo, open it in your chosen source code editor, then open an integrated terminal from the index.js file.  Install the dependent packages before initiating the program (use command: npm install). 
   
   ## Usage
-  Use it to make life easier.
+  Use it to create a markdown file README.me for your application.Initiate the program in your CLI by running the command: node index.js
   
   ## Contributing
-  mom & dad
+  https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
   ## Tests
-  no protocols, just flying by the seat of my pants.
+  none so far.  maybe try  nodemon in the future.
 
   ## License
   This project retains the MIT license.
@@ -31,5 +31,5 @@
   ## Questions
   For additional information, please check out my github profile:  github.com/js-Quest  
   
-  Or feel free to email me at notPublic@gmail.com
+  Or feel free to email me at notPublic@gail.com
   
