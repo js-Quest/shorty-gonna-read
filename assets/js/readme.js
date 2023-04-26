@@ -6,12 +6,12 @@ function generateReadme(answers) {
   ${answers.description}
 
   ## Table of Contents
-  - [installation](#Installation)
-  - [usage](#Usage)
-  - [contributing](#Contributing)
-  - [tests](#Tests)
-  - [license](#License)
-  - [questions](#Questions)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [License](#license)
+  - [Questions](#questions)
 
   ## Installation
   ${answers.installation}
@@ -33,3 +33,5 @@ function generateReadme(answers) {
   Or feel free to email me at ${answers.email}
   `
 }
+
+module.exports = generateReadme

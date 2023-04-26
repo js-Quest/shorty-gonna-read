@@ -1,5 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generateReadme = require('./readme');
 
 inquirer.prompt([
   {
@@ -59,14 +60,9 @@ inquirer.prompt([
 ])
   .then((answers) => {
     console.log(answers);
-    
-    
-    
-    
-    
-    
-    
-    // fs.writeFile('README.md', JSON.stringify(answers, null), '\t', (err) =>
-    //   err ? console.error(err) : console.log('generated README.')
-    // );
+
+    fs.writeFile('README.md', generateReadme(answers), (err) =>
+      err ? console.error(err) : console.log('success - generated README!')
+    );
+
   });
