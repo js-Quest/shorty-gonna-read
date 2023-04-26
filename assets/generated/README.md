@@ -3,7 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  cli app
+  readme generator
 
   ## Table of Contents
   - [Installation](#installation)
@@ -14,13 +14,13 @@
   - [Questions](#questions)
 
   ## Installation
-  yep
+  a few
   
   ## Usage
-  use to make readme
+  readme!
   
   ## Contributing
-  a few
+  several
 
   ## Tests
   nope
@@ -31,5 +31,5 @@
   ## Questions
   For additional information, please check out my github profile:  github.com/js-quest  
   
-  Or feel free to email me at jasaddington@gmail
+  Or feel free to email me at notgonnamakethatpublic
   
