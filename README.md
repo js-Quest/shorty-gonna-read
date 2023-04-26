@@ -12,7 +12,7 @@
   ## Usage
   Use it to create a markdown file README.me for your application.
   Initiate the program in your CLI by running the command: node index.js
-  ![](https://github.com/Your_Repository_Name/Untitled_ Apr 25, 2023 8_51 PM.gif)
+  ![](https://github.com/js-Quest/Untitled_ Apr 25, 2023 8_51 PM.gif)
 
   
   ## Contributing
