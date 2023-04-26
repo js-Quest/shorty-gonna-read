@@ -12,6 +12,8 @@
   ## Usage
   Use it to create a markdown file README.me for your application.
   Initiate the program in your CLI by running the command: node index.js
+  [Untitled_ Apr 25, 2023 8_51 PM (1).webm](https://user-images.githubusercontent.com/128349503/234445730-64f50dd9-3d0a-4443-a86d-03e87164df3b.webm)
+
   
   ## Contributing
   Badges
