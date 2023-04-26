@@ -3,14 +3,14 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package and the fs package. The newly generated README.me is then deposited in the 'generated' folder for easy access. Please refer to the package.json file for the versions of the dependencies used.  This application was built using Node v16.18.0
+  This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package and the fs package. Please refer to the package.json file for the versions of the dependencies used.  This application was built using Node v16.18.0
 
 
   ## Installation
   Clone the repo, open it in your chosen source code editor, then open an integrated terminal from the index.js file.  Install the dependent packages before initiating the program (use command: npm install). 
   
   ## Usage
-  Use it to create a markdown file README.me for your application.  The newly generated README.md will be found at ./assets/generated folder.  Initiate the program in your CLI by running the command: node index.js
+  Use it to create a markdown file README.me for your application.  The newly generated README.md will be found at ./assets/generated folder.  You can also click on the license badge to see the license information.  Initiate program in your CLI by running the command: node index.js
  
  Click on the video options to enlarge the recording. 
  
