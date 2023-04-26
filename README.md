@@ -14,6 +14,7 @@
   Initiate the program in your CLI by running the command: node index.js
  
  Click on the video options to enlarge the recording. 
+ 
 [Untitled_ Apr 25, 2023 8_51 PM (3).webm](https://user-images.githubusercontent.com/128349503/234452878-7ac40e2c-eb4d-4286-836e-89f2e41099f9.webm)
 
   
