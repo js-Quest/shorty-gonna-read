@@ -17,7 +17,7 @@
   Clone the repo, open it in your chosen source code editor, then open an integrated terminal from the index.js file.  Install the dependent packages before initiating the program (use command: npm install). 
   
   ## Usage
-  Use it to create a markdown file README.me for your application.Initiate the program in your CLI by running the command: node index.js
+  Use it to create a markdown file README.me for your application.  The newly generated README.md will be found at ./assets/generated folder.  Initiate the program in your CLI by running the command: node index.js
   
   ## Contributing
   https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
